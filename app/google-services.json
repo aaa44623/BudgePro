@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267673618792",
+    "firebase_url": "https://testocr-492fc.firebaseio.com",
+    "project_id": "testocr-492fc",
+    "storage_bucket": "testocr-492fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267673618792:android:3b2ea435bd982316",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.testocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267673618792-1r7r2j39j5pgic9sijc5kegl0lihr4vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmWJg4RqeYNgp_lGgIMsse1xOSWAAl-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
